@@ -1,8 +1,8 @@
 # 🚀 Space Unicorn 🦄
 Hey, Spatiocorne here !
 Wanna know a bit more about me ?
-I'm a junior developer who havee started his development journey with some basis of HTML/CSS/JS before switching to python for creating funny and entertaining projects for myself.
-
+I'm a junior developer who have started his development journey with some basis of HTML/CSS/JS before switching to python for creating funny and entertaining projects for myself.
+Currently my code is mostly in C because of my on going cursus in 42 School.
 
 
 ## Member of [@42Born2code](https://github.com/42School) network
