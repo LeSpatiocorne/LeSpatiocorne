@@ -13,8 +13,7 @@ Beginner student at 42 Perpignan.
 
 ### On going projects
 
-<img alt="push_swap" src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png"><img alt="so_long" src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longe.png">
-3rd project TbD
+<img alt="push_swap" src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png"><img alt="so_long" src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longe.png"><img alt="minitalk" src="https://github.com/ayogun/42-project-badges/blob/main/badges/minitalkm.png">
 
 ## ✨ Aspiration
 I aspire to be part of the [@Odoo](https://github.com/odoo/odoo)'s team when my cursus at 42 will be done !
