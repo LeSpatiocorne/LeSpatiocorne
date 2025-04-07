@@ -7,6 +7,10 @@ Currently my code is mostly in C because of my on going cursus in 42 School.
 
 ## Member of [@42Born2code](https://github.com/42School) network
 Beginner student at 42 Perpignan.
+
+## 42 REPOSITORIES
+[POOL](https://github.com/LeSpatiocorne/42_Piscine/tree/main) || [COMMON CORE](https://github.com/LeSpatiocorne/42_cursus)
+
 ### Finished Project
 
 <img alt="libft no bonus" src="https://github.com/ayogun/42-project-badges/blob/main/badges/libfte.png"></br><img alt="Get Next Line with bonus" src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png"><img alt="ft_printf no bonus" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png"><img alt="Born2BeRoot with bonus" src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png"></br><img alt="push_swap" src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png"><img alt="minitalk" src="https://github.com/ayogun/42-project-badges/blob/main/badges/minitalkm.png">
