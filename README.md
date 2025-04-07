@@ -14,10 +14,6 @@ Beginner student at 42 Perpignan.
 ## ✨ Aspiration
 I aspire to be part of the [@Odoo](https://github.com/odoo/odoo)'s team when my cursus at 42 will be done !
 
-# Credits
-projects images from 42-project-badges find them [here](https://github.com/ayogun/42-project-badges)
-
-
 <!--
 **LeSpatiocorne/LeSpatiocorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
