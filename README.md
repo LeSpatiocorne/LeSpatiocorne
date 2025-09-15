@@ -2,11 +2,7 @@
 Hey, Spatiocorne here !
 Wanna know a bit more about me ?
 I'm a junior developer who have started his development journey with some basis of HTML/CSS/JS before switching to python for creating funny and entertaining projects for myself.
-Currently my code is mostly in C because of my on going cursus in 42 School.
-
-
-## Member of [@42Born2code](https://github.com/42School) network
-Beginner student at 42 Perpignan.
+Started to build a good knowledge of C with my 42 school cursus. Now mainly redirecting my efforts on learning mobile developpement.
 
 ## 42 REPOSITORIES
 [POOL](https://github.com/LeSpatiocorne/42_Piscine/tree/main) || [COMMON CORE](https://github.com/LeSpatiocorne/42_cursus)
