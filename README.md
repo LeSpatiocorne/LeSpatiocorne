@@ -1,14 +1,6 @@
 # 🚀 Space Unicorn 🦄
 Hey, Spatiocorne here !
-Wanna know a bit more about me ?
-I'm a junior developer who have started his development journey with some basis of HTML/CSS/JS before switching to python for creating funny and entertaining projects for myself.
-Started to build a good knowledge of C with my 42 school cursus. Now mainly redirecting my efforts on learning mobile developpement.
-
-## 42 REPOSITORIES
-[POOL](https://github.com/LeSpatiocorne/42_Piscine/tree/main) || [COMMON CORE](https://github.com/LeSpatiocorne/42_cursus)
-
-## ✨ Aspiration
-I aspire to be part of the [@Odoo](https://github.com/odoo/odoo)'s team when my cursus at 42 will be done !
+I'm doing some project that I like.
 
 <!--
 **LeSpatiocorne/LeSpatiocorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
